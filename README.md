@@ -27,6 +27,5 @@ The application will be live at `http://localhost:3000`.
 This application is deployed at the following URLs:
 
 - Netlify: [splendorous-salmiakki-4e4e67.netlify.app](https://splendorous-salmiakki-4e4e67.netlify.app/)
-- Custom Domain: [wanderlustchronicle.ddns.net](http://wanderlustchronicle.ddns.net/)
 
 Visit these links to view the live application.
